@@ -1,4 +1,4 @@
-# ⛹️‍ Marko Radulovic
+## ⛹️‍ Marko Radulovic
 
 **`Front-End Developer`**
 
