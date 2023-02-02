@@ -1,5 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ReactJS and NextJS
+- 🌱 I’m currently learning ReactJS and NextJS 
+
+![image](https://user-images.githubusercontent.com/74006590/216363468-269c8810-a883-476b-a1f3-822f46de30a8.png)
+
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px > </h2>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
