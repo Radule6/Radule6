@@ -1,6 +1,7 @@
 ## ⛹️‍ Marko Radulovic
 
 **`Front-End Developer`**
+#
 💻Aspiring full-stack developer currently honing my skills as a web development student. ⚡️Focused on mastering React and Next.js, I am constantly seeking new challenges to expand my knowledge and build innovative web applications. Driven by my passion for technology and creativity, I am always eager to collaborate with others and contribute to the growth of the web development community. 🌐
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px > </h2>
