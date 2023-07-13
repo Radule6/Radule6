@@ -9,8 +9,6 @@ and Next.js, I am constantly seeking new challenges to expand my knowledge and b
 by my passion for technology and creativity, I am always eager to collaborate with others and contribute to the growth
 of the web development community. 🌐
 
-- 🔭 I’m currently working on **blog app with NextJS**
-
 - 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **marko.radulovic@mradulovic.com**
