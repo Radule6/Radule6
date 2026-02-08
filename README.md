@@ -42,11 +42,17 @@ Full-Stack Engineer at **Exante Data** -- building RAG-based search systems that
 ### Stack
 
 ```
-Frontend        React  ·  TypeScript  ·  HighCharts  ·  Tailwind CSS
+Frontend        React  ·  Next.js  ·  TypeScript  ·  HighCharts  ·  Tailwind CSS
 Backend         Python  ·  FastAPI  ·  Node.js  ·  PostgreSQL  ·  Supabase
 AI / Data       RAG  ·  LLMs  ·  OpenAI API  ·  Vector DBs  ·  Embeddings  ·  MCP
 Infrastructure  AWS  ·  Git  ·  CI/CD  ·  Docker
 ```
+
+<br>
+
+### Off the Clock
+
+I've run two marathons, play basketball whenever I can, and try to stay consistent at the gym. Lately I've picked up Bachata -- turns out footwork is harder than debugging production. When I'm not moving, I'm usually gaming, exploring a new city, or tinkering with a side project that may or may not see the light of day. Native Croatian speaker, fluent in English.
 
 <br>
 
