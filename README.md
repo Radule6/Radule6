@@ -1,30 +1,110 @@
-## ⛹️‍ Marko Radulovic
+<div align="center">
 
-**`Front-End Developer`**
+<br>
 
-#
+```
+ Marko Radulovic
+```
 
-💻Aspiring full-stack developer currently honing my skills as a web development student. ⚡️Focused on mastering React
-NextJS and NodeJS, I am constantly seeking new challenges to expand my knowledge and build innovative web applications. Driven
-by my passion for technology and creativity, I am always eager to collaborate with others and contribute to the growth
-of the web development community. 🌐
+**Full-Stack Engineer** &nbsp;/&nbsp; AI-Powered Data Products &nbsp;/&nbsp; Fintech
 
-- 🌱 I’m currently learning **NextJS**
+<br>
 
-- 📫 How to reach me **marko.radulovic@mradulovic.com**
+Building RAG systems, agentic AI integrations, and production-grade web applications<br>
+across React, Python, and AWS infrastructure.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marko-radulovic6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marko-radulovic6" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
+[Portfolio](https://radule.dev) &nbsp;&middot;&nbsp; [LinkedIn](https://linkedin.com/in/marko-radulovic6) &nbsp;&middot;&nbsp; [marko.radulovic@radule.dev](mailto:marko.radulovic@radule.dev)
+
+<br>
+
+---
+
+</div>
+
+<br>
+
+### Currently
+
+Full-Stack Engineer at **Exante Data** -- building RAG-based search systems that let institutional clients query proprietary financial datasets using natural language. Owning development across the React frontend, Python/FastAPI backend, PostgreSQL, and AWS infrastructure.
+
+<br>
+
+### Previously
+
+**MarketReader** -- Built the platform's interactive charting system from scratch using React and HighCharts, visualizing thousands of financial data points in real-time. Designed and shipped the MCP server enabling agentic AI workflows over market data. Owned end-to-end development of the embeddable widget system that expanded platform reach to external sites.
+
+**RIT Croatia** -- Teaching Assistant mentoring students through full-stack web projects. Graduated B.S. Information Technology, GPA 3.7/4.0.
+
+<br>
+
+### Stack
+
+```
+Frontend        React  ·  TypeScript  ·  HighCharts  ·  Tailwind CSS
+Backend         Python  ·  FastAPI  ·  Node.js  ·  PostgreSQL  ·  Supabase
+AI / Data       RAG  ·  LLMs  ·  OpenAI API  ·  Vector DBs  ·  Embeddings  ·  MCP
+Infrastructure  AWS  ·  Git  ·  CI/CD  ·  Docker
+```
+
+<br>
+
+### Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Exante Data AI Search**<br>
+<sub>React &nbsp;/ FastAPI &nbsp;/ PostgreSQL &nbsp;/ AWS &nbsp;/ RAG</sub>
+
+RAG-powered natural language search over proprietary financial datasets for institutional clients.
+
+<a href="https://ai.exantedata.com/">View Product</a>
+
+</td>
+<td width="50%" valign="top">
+
+**MarketReader Dashboard**<br>
+<sub>React &nbsp;/ TypeScript &nbsp;/ HighCharts &nbsp;/ Python</sub>
+
+Real-time financial charting platform with embeddable widget system for third-party integrations.
+
+<a href="https://app.marketreader.com/">View Product</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**radule.dev**<br>
+<sub>React &nbsp;/ TypeScript &nbsp;/ Tailwind CSS &nbsp;/ Vite</sub>
+
+Personal portfolio with custom animations, theme system, and CI/CD deployment pipeline.
+
+<a href="https://radule.dev">Live</a> &nbsp;&middot;&nbsp; <a href="https://github.com/Radule6/web-portfolio">Source</a>
+
+</td>
+<td width="50%" valign="top">
+
+**Freelancer OS**<br>
+<sub>Next.js &nbsp;/ Supabase &nbsp;/ Vercel</sub>
+
+All-in-one platform for independent professionals -- invoicing, project management, and client workflows.
+
+<sub>In Development</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+<sub>Zagreb, Croatia &nbsp;&middot;&nbsp; Available for select projects &nbsp;&middot;&nbsp; <a href="mailto:marko.radulovic@radule.dev">Get in touch</a></sub>
+
+</div>
